@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihal Ram Tripathi</h1>
-<h3 align="center">A passionate App developer & Front-end Developer from India</h3>
+<h3 align="center">A passionate Mobile Application Developer (Flutter & Android Studio)</h3>
 
 <img  align="center" width="600" length ="600"  src ="https://images.pexels.com/photos/21696/pexels-photo.jpg?cs=srgb&dl=pexels-gerd-altmann-21696.jpg&fm=jpg">
 
