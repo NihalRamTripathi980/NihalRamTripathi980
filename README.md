@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihal Ram Tripathi</h1>
 <h3 align="center">A passionate Mobile Application Developer (Flutter & Android Studio)</h3>
 
-<img  align="center" width="600" length ="600"  src ="https://images.pexels.com/photos/21696/pexels-photo.jpg?cs=srgb&dl=pexels-gerd-altmann-21696.jpg&fm=jpg">
+<img  align="center" width="auto" length ="600"  src ="https://images.pexels.com/photos/21696/pexels-photo.jpg?cs=srgb&dl=pexels-gerd-altmann-21696.jpg&fm=jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalramtripathi980&label=Profile%20views&color=0e75b6&style=flat" alt="nihalramtripathi980" /> </p>
