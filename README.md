@@ -1,47 +1,80 @@
 <h1 align="center">Hi 👋, I'm Nihal Ram Tripathi</h1>
-<h3 align="center">🚀 Mobile & Backend Engineer | Flutter • Kotlin • Spring Boot • Java</h3>
+<h3 align="center">🚀 Software Engineer | Mobile (Flutter) + Backend (Spring Boot, Java)</h3>
 
 <p align="center">
-Building scalable mobile apps & backend systems with clean architecture and real-world impact.
+I build scalable mobile applications and backend systems powering real-world fintech use cases.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 💼 Software Developer with **3+ years experience**
-- 📱 Expert in **Flutter Mobile App Development**
-- ⚙️ Strong in **Java Backend (Spring Boot)**
-- 🏗️ Building scalable apps with **REST APIs, Clean Architecture, and Microservices mindset**
-- 🧠 Currently focusing on **Backend Engineering & System Design**
-- 🚀 Working on fintech project **MapTap (UPI, Payments, Mandates)**
+- 💼 Software Engineer at **Xtracap Fintech Private Limited**
+- 📱 3+ years building **production-grade Flutter apps**
+- ⚙️ Backend engineer with **Spring Boot, REST APIs, PostgreSQL**
+- 🔁 Strong understanding of **end-to-end system design (Mobile ↔ Backend ↔ DB)**
+- 🏗️ Focused on **scalable architecture, performance, and clean code**
+- 🚀 Currently diving deeper into **system design & distributed systems**
 
 ---
 
-## 🔥 Tech Stack
+## 💼 Professional Experience
 
-### 📱 Mobile Development
+### 🏦 Xtracap Fintech Private Limited
+**Software Engineer**
+
+- Developed and maintained **fintech mobile applications** using Flutter
+- Designed and integrated **RESTful APIs** with Spring Boot backend
+- Worked on **payment flows, UPI systems, and mandate-based transactions**
+- Improved app performance and responsiveness across devices
+- Collaborated across teams to deliver **production-ready features end-to-end**
+
+---
+
+## 🚀 Key Projects
+
+### 💰 MapTap — Fintech Platform
+> Backend-driven payment system with UPI & auto mandates
+
+- Built backend using **Spring Boot + PostgreSQL**
+- Designed APIs for **user onboarding, UPI ID generation, and payments**
+- Implemented **secure transaction handling**
+- Focused on **modular architecture and scalability**
+
+---
+
+### 📊 MyPurse — Expense Tracker App
+> Personal finance management app
+
+- Built using **Flutter with clean architecture**
+- Implemented **budget tracking, analytics, and transaction history**
+- Used **Provider for state management**
+- Designed responsive and intuitive UI
+
+---
+
+## ⚙️ Tech Stack
+
+### 📱 Mobile
 - Flutter (Dart)
 - Kotlin (Android)
 - State Management: Provider, GetX, BLoC
-- SQLite, Firebase
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 - Java
 - Spring Boot
 - REST APIs
 - JPA / Hibernate
 - PostgreSQL
 
-### 🛠️ Tools & Others
-- Git & GitHub
-- MySQL
+### 🧰 Tools
+- Git, GitHub
 - Firebase
-- REST API Integration
+- MySQL, SQLite
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nihalramtripathi980&show_icons=true&theme=tokyonight" />
@@ -54,23 +87,16 @@ Building scalable mobile apps & backend systems with clean architecture and real
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 What I Bring
 
-### 💰 MapTap (Fintech App)
-- UPI ID generation system
-- Auto payment mandates
-- Spring Boot backend + PostgreSQL
-- Secure transaction handling
-
-### 📊 MyPurse (Expense Tracker)
-- Budget management & analytics
-- Monthly expense tracking
-- Clean UI with Flutter
-- Provider-based state management
+- ✅ Ability to build **end-to-end products (Mobile + Backend)**
+- ✅ Strong foundation in **data structures, concurrency, and APIs**
+- ✅ Experience with **real-world fintech systems**
+- ✅ Clean, maintainable, and scalable code practices
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/nihal-ram-tripathi-25457821b/" target="blank">LinkedIn</a> |
@@ -86,13 +112,4 @@ Building scalable mobile apps & backend systems with clean architecture and real
 
 ---
 
-## 💡 What I Bring
-
-✔️ Strong mobile + backend combination (rare & valuable)  
-✔️ Production-level Flutter apps  
-✔️ API design & backend logic in Spring Boot  
-✔️ Real-world fintech problem solving  
-
----
-
-⭐ *Always learning. Always building. Always improving.*
+⭐ *Building systems. Not just features.*
